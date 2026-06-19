@@ -1,0 +1,28 @@
+{
+  "document": {
+    "cv": {
+      "name": "Hongtao Liang",
+      "headline": "Product Management and AI Student",
+      "location": "Hong Kong",
+      "email": "student@example.com",
+      "sections": {
+        "Profile": [
+          "HKUST student interested in product management, artificial intelligence, and digital entrepreneurship."
+        ],
+        "Projects": [
+          "Built a Campus Career Agent using Copilot Studio, Power Automate, Dataverse, and Microsoft 365."
+        ],
+        "Skills": [
+          "Product Management, Power Platform, User Research, Python"
+        ]
+      }
+    },
+    "design": {
+      "theme": "classic"
+    },
+    "locale": {
+      "language": "english"
+    }
+  },
+  "file_name": "Hongtao_Liang_CV.pdf"
+}
