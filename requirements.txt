@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+gunicorn
+PyYAML
+rendercv[full]==2.8
